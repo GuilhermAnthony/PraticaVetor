@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\PraticaVetor\bin\Debug\PraticaVetor.exe.config
+C:\Users\Tecnico\source\repos\PraticaVetor\bin\Debug\PraticaVetor.exe
+C:\Users\Tecnico\source\repos\PraticaVetor\bin\Debug\PraticaVetor.pdb
+C:\Users\Tecnico\source\repos\PraticaVetor\obj\Debug\PraticaVetor.csproj.AssemblyReference.cache
+C:\Users\Tecnico\source\repos\PraticaVetor\obj\Debug\PraticaVetor.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\PraticaVetor\obj\Debug\PraticaVetor.exe
+C:\Users\Tecnico\source\repos\PraticaVetor\obj\Debug\PraticaVetor.pdb
